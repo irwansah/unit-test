@@ -48,3 +48,8 @@ Kadang-kadang, Cypress dapat berjalan lebih lambat dibandingkan dengan Jest, ter
 
 b. Kurangnya Dukungan Snapshot Testing: 
 Cypress tidak memiliki dukungan built-in untuk snapshot testing seperti yang ada di Jest.
+
+
+## Kesimpulan:
+
+Dalam pemilihan antara Jest dan Cypress, sangat tergantung pada jenis pengujian yang ingin Anda lakukan. Jika Anda bekerja dengan kode React dan menginginkan pengujian unit yang cepat dan mudah, Jest adalah pilihan yang bagus. Namun, jika Anda fokus pada pengujian end-to-end yang kuat dan memerlukan dukungan browser yang baik, maka Cypress adalah pilihan yang lebih baik.
