@@ -11,6 +11,7 @@ e. Dukungan Banyak Fitur: Jest mendukung berbagai fitur seperti asynchronous tes
 
 ### Kelemahan Jest:
 a. E2E Testing yang Terbatas: Jest kurang cocok untuk melakukan pengujian end-to-end (E2E) yang kompleks dibandingkan dengan Cypress.
+
 b. Kurangnya Dukungan untuk Browser: Jest hanya dapat dijalankan di lingkungan Node.js dan membutuhkan ekstensi tambahan untuk menguji kode di lingkungan browser.
 
 
